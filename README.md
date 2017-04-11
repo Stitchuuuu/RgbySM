@@ -4,21 +4,23 @@ Transport your Pokemon from VC Game to PKSM Bank, Sun and Moon games
 
 Prounounce RubySM it's easier ;)
 
-# Progress
+# Roadmap
 
 ## Version 0.5
 
+| Task | Progress |
+| :------- | :---: |
 | Accessing Pokemons in Party and in Boxes | Done |
 | Getting API for creating and updating Gen7 Pokemon | Done |
 | Getting all informations of how a Pokemon is transported from Gen 1 to Gen 7 | Done |
-| Getting country, region, console region from 3DS Config | Done  |
-| Getting information about Legit Mew Event in VC | Done  |
+| Getting country, region, console region from 3DS Config | Done |
+| Getting information about Legit Mew Event in VC | Done |
 | Getting lang from VC Game Version |  |
 | Getting ID Game from VC Game Version |  |
+| Transforming a Gen1 Pokemon in Gen7 Pokemon |  |
 | Add a Pokemon to PKSM Extra Storage Boxes |  |
 | Add all Pokemons to PKSM Extra Storage Boxes |  |
 | Get Pokemons from PKSM Extra Storage Boxes |  |
-| Transforming a Gen1 Pokemon in Gen7 Pokemon |  |
 | Checking if the transporting Pokemon is Legit |  |
 | Injecting Legit Mew in VC Save |  |
 | Backup of VC Game |  |
@@ -41,7 +43,9 @@ Prounounce RubySM it's easier ;)
 
 ## Version 1.0
 
-| Getting API for updating Gen7 save |  |
+|  Task | Progress |
+| :------- | :---: |
+|  Getting API for updating Gen7 save |  |
 | 3dsx - Backing up Gen1 data boxes temporary |  |
 | 3dsx - When loading Sun / Moon, get boxes from temporary file |  |
 | 3dsx - Delete temporary boxes when existing with SUn / Moon |  |
